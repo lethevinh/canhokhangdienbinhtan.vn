@@ -56,10 +56,11 @@ strong,
 }
 
 .register {
-    background-color: #517c2e;
+    background-image: linear-gradient(#379d80, #054b51);
     box-shadow: 0 1px 13px rgb(0 0 0 / 63%);
     padding: 25px;
     margin-top: 100px;
+    background-color: transparent;
     /*width: 350px;*/
 }
 .register.modal-content {
@@ -78,6 +79,13 @@ strong,
 }
 .register .modal-title{
     color: white;
+}
+.register .btn {
+    font-family: "UTM AvoBold", serif;
+    border: none;
+    background-color: #014836;
+    color: white;
+    font-size: 12px;
 }
 .video-wrapper {
     position: relative;
@@ -238,7 +246,7 @@ strong,
     content: " ";
     width: 150%;
     height: 1px;
-    background-color: #96a372;
+    background-color: #3AA284;
     position: absolute;
     bottom: 0;
     left: -28%;
@@ -262,7 +270,7 @@ strong,
 
 .block-icon li,
 .single_feature ul li {
-    line-height: 1.6rem;
+    line-height: 2.2rem;
     margin-left: 20px;
 }
 
@@ -689,7 +697,10 @@ img.lazy[data-src] {
 }
 
 .owl-theme.owl-carousel-portfolio-2  .owl-controls {
-    top: 30%;
+    top: 15%;
+}
+.table-bordered td, .table-bordered th {
+    border: 1px solid #b19a61;
 }
 .owl-theme.carousel-single-slider .owl-controls {
     width: 100%;
@@ -1041,9 +1052,7 @@ ul.ul-green li .ti-check-box {
     background-color: #eedbd2;
 }
 .bg-linear-gradient{
-    /*background: rgb(79,121,44);*/
-    /*background: linear-gradient(351deg, rgba(79,121,44,1) 0%, rgba(123,155,60,1) 100%);*/
-    background-image: linear-gradient(#517a2d, #7b9b3c);
+    background-image: linear-gradient(#379d80, #054b51);
 }
 .bg-grad {
     color: #606060;
@@ -1051,7 +1060,9 @@ ul.ul-green li .ti-check-box {
 .bg-green{
     background-color: #749738;
 }
-
+.bg-linear-gradient .header-title {
+    color: #E0CF79;
+}
 .single_feature_111.single_feature_11111.single_feature ul li {
     font-size: 1rem;
     /*line-height: 30px;*/
@@ -1190,8 +1201,8 @@ p {
     text-align: center;
 }
 
-.text-asss {
-    color: #7e9f44;
+.text-header-com {
+    color: #3AA284;
 }
 
 .owl-theme .owl-controls .owl-buttons div {
