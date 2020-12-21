@@ -695,7 +695,9 @@ img.lazy[data-src] {
     left: -70px;
     z-index: 1;
 }
-
+#work-slider-6.owl-theme .owl-controls{
+    top: 35%;
+}
 .owl-theme.owl-carousel-portfolio-2  .owl-controls {
     top: 15%;
 }
@@ -926,6 +928,14 @@ ul.ul-green li .ti-check-box {
     font-size: 0.9rem;
 }
 
+@media (min-width: 767px) {
+    #room-feature{
+        margin-bottom: 80px;
+    }
+    #room-feature .row:last-child{
+        margin-bottom: -110px;
+    }
+}
 @media (max-width: 767px) {
     .header-title::after {
         width: 100%;

@@ -21,156 +21,10 @@
   <component name="ChangeListManager">
     <list default="true" id="304119ec-40a2-477e-ac37-42f8d0cd07ea" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/6_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/6_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/6_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/6_4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/6_5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/6_6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/7_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/7_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/7_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/8_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/8_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/8_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/9_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/9_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/9_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/Popup-01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/biet-thu-don-lap-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/biet-thu-don-lap-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/biet-thu-don-lap-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/biet-thu-don-lap-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/biet-thu-don-lap-5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/biet-thu-don-lap-6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/biet-thu-don-lap-7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/biet-thu-don-lap-8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/biet-thu-mini-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/biet-thu-mini-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/biet-thu-mini-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/biet-thu-mini-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/biet-thu-mini-5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/biet-thu-mini-6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/biet-thu-mini-7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/biet-thu-mini-8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/biet-thu-mini-9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/biet-thu-song-lap-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/biet-thu-song-lap-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/biet-thu-song-lap-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/biet-thu-song-lap-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/biet-thu-song-lap-5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/biet-thu-song-lap-6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/biet-thu-song-lap-7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/biet-thu-song-lap-8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/biet-thu-song-lap-9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/footer-bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/footer-bg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/khu-dan-cu-cay-xanh-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/khu-dan-cu-cay-xanh-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/khu-dan-cu-cay-xanh-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/khu-dan-cu-cay-xanh-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/khu-dan-cu-cay-xanh-5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/khu-dan-cu-cay-xanh-6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/loading.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/mat-bang-tong-the-West-Lakes-Golf-Villas.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/next.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/next.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/prev.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/prev.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/preview.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/preview.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/reason_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/reason_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/reason_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/reason_2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/reason_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/reason_3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/reason_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/reason_4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/slider-text.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/slider-text.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/slider-text_.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/testimonial-bg-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/testimonial-bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/testimonial-bg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/tien-do-du-an-thang-11-20201.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/tien-do-du-an-thang-11-20202.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/tien-ich-noi-khu-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/tien-ich-noi-khu-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/tien-ich-noi-khu-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/tien-ich-noi-khu-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/tien-ich-noi-khu-5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/tien-ich-noi-khu-6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/tien-ich-noi-khu-7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/tien_ich_ngoai_khu_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/tien_ich_ngoai_khu_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/__images/tien_ich_ngoai_khu_3.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/css/custom.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/bg-form.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/footer-bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/next-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/prev-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/preview.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/reason_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/reason_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/reason_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/reason_4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/san-pham-an-tuong-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/san-pham-an-tuong-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/san-pham-an-tuong-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/san-pham-an-tuong-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/san-pham-an-tuong-5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/san-pham-an-tuong-6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/san-pham-an-tuong-7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/slider-text.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/slider-text.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/testimonial-bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/testimonial-bg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/tien-do-phan-khu-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/tien-do-phan-khu-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/tien-do-phan-khu-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/tien-do-thuc-te-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/tien-do-thuc-te-10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/tien-do-thuc-te-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/tien-do-thuc-te-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/tien-do-thuc-te-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/tien-do-thuc-te-5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/tien-do-thuc-te-6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/tien-do-thuc-te-7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/tien-do-thuc-te-8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/tien-do-thuc-te-9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/tien-ich-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/tien-ich-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/tien-ich-icon-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/tien-ich-icon-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/tien-ich-icon-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/tien-ich-icon-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/tien-ich-ngoai-khu-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/tien-ich-ngoai-khu-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/tien-ich-ngoai-khu-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/tien-ich-ngoai-khu-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/tien-ich-ngoai-khu-5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/tien-ich-ngoai-khu-6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/tien-ich-noi-khu-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/tien-ich-noi-khu-1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/tien-ich-noi-khu-10.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/tien-ich-noi-khu-10.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/tien-ich-noi-khu-11.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/tien-ich-noi-khu-11.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/tien-ich-noi-khu-12.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/tien-ich-noi-khu-12.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/tien-ich-noi-khu-13.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/tien-ich-noi-khu-13.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/tien-ich-noi-khu-14.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/tien-ich-noi-khu-14.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/tien-ich-noi-khu-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/tien-ich-noi-khu-2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/tien-ich-noi-khu-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/tien-ich-noi-khu-3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/tien-ich-noi-khu-4.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/tien-ich-noi-khu-4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/tien-ich-noi-khu-5.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/tien-ich-noi-khu-5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/tien-ich-noi-khu-6.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/tien-ich-noi-khu-6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/tien-ich-noi-khu-7.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/tien-ich-noi-khu-7.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/tien-ich-noi-khu-8.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/tien-ich-noi-khu-8.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/tien-ich-noi-khu-9.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/images/tien-ich-noi-khu-9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/js/scripts.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/src/views/pages/home.twig" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/a-aqua/src/views/pages/home.twig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/src/views/sections/footer.twig" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/a-aqua/src/views/sections/footer.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/src/views/sections/header.twig" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/a-aqua/src/views/sections/header.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -247,7 +101,7 @@
       <workItem from="1608265844371" duration="2357000" />
       <workItem from="1608291596400" duration="5000" />
       <workItem from="1608543640522" duration="3587000" />
-      <workItem from="1608561567447" duration="2999000" />
+      <workItem from="1608561567447" duration="5873000" />
     </task>
     <servers />
   </component>
