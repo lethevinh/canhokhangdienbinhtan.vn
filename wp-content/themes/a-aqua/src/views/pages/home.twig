@@ -1,9 +1,9 @@
 {% section 'header' %}
-<section id="about" class="process-content section-padding pt-4 pb-5 white-bg">
+<section id="about" class="process-content section-padding pt-4 pb-4 white-bg">
     <div class="container">
         <div class="row text-center">
             <div class="section-title text-center mb-0">
-                <h2 class="text-bold header-title auto-center pb-3 mb-3 text-header-com ">
+                <h2 class="text-bold header-title auto-center pt-0 pb-3 mb-3 text-header-com ">
                     D - AQUA BẾN BÌNH ĐÔNG QUẬN 8 <br>
                     KIẾN TẠO CUỘC SỐNG AN YÊN - TÔ ĐIỂM LỐI SỐNG HOÀN MỸ
                 </h2>
@@ -96,10 +96,10 @@
         </div><!-- END ROW -->
     </div><!-- END CONTAINER -->
 </section>
-<section id="video" class="process-content no-padding white-bg">
+<section id="video" class="process-content no-padding white-bg pt-5 pb-4">
     <div class="container">
         <div class="row text-center">
-            <div class="section-title text-center mt-3 mb-3">
+            <div class="section-title text-center mt-0 mb-0">
                 <div class="video-wrapper mt-2 mb-4">
                     <iframe width="560" height="315" src="https://www.youtube.com/embed/wcSV42-YC38" frameborder="0"
                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -131,11 +131,11 @@
     </div>
     <!--- END CONTAINER -->
 </section>
-<section id="location-center" class="process-content section-padding pt-4 pb-5 white-bg">
+<section id="location-center" class="process-content section-padding pt-0 pb-5 white-bg">
     <div class="container">
         <div class="row text-center">
             <div class="section-title text-center mb-0">
-                <h2 class="text-bold header-title auto-center pb-3 mb-3 text-header-com ">
+                <h2 class="text-bold header-title auto-center pb-3 mb-3 text-header-com-1 ">
                     VỊ TRÍ “VƯỢNG THUỶ” TRUNG TÂM QUẬN 8
                 </h2>
                 <p class="p-justify" style="width: 100%">
@@ -251,7 +251,7 @@
     </div>
     <!--- END CONTAINER -->
 </section>
-<section id="tien-ich-ngoai-khu" class="process-content section-padding pt-4 pb-2 white-bg">
+<section id="tien-ich-ngoai-khu" class="process-content section-padding pt-0 pb-2 white-bg">
     <div class="container">
         <div class="row text-center">
             <div class="section-title text-center mb-0">
@@ -311,7 +311,7 @@
             <!--- END COL -->
         </div>
         <div class="row text-center no-padding">
-            <div id="work-slider-6" class="owl-carousel owl-carousel-portfolio-1">s
+            <div id="work-slider-6" class="owl-carousel owl-carousel-portfolio-1">
                 {% for i in 1..14 %}
                     {% set image = [theme_url(), 'assets/images/mat-bang-can-ho-', i, '.png' ]|join %}
                     {% include 'item/tien-ich-noi-khu.twig' with {image:image} %}
