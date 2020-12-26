@@ -1269,7 +1269,15 @@ p {
 .img-bullet {
     width: 25px;
 }
-
+ul.custom-bullet {
+    list-style-image: url('../images/custom-bullet.png') !important;
+}
+ul.ul-green {
+    list-style-image: url('../images/li-bullet.png');
+}
+ul .ti-check-box{
+    display: none;
+}
 .tienich_bg {
     position: relative;
 }
