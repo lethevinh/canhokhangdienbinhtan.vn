@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="304119ec-40a2-477e-ac37-42f8d0cd07ea" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/src/views/snippets/font.twig" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/a-aqua/src/views/snippets/font.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -102,7 +103,7 @@
       <workItem from="1608647885581" duration="2343000" />
       <workItem from="1608941381055" duration="2670000" />
       <workItem from="1608967580507" duration="795000" />
-      <workItem from="1609057171223" duration="79000" />
+      <workItem from="1609057171223" duration="427000" />
     </task>
     <servers />
   </component>
