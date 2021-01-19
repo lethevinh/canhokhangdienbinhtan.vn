@@ -206,13 +206,15 @@
             $.post(url, data)
                 .done(function() {
                     // alert("second success");
+                    $('#exampleModal[aria-modal="true"]').modal('hide');
+                    $('#thankModal[aria-hidden="true"]').modal('show');
+                    form.get(0).reset();
                 })
                 .fail(function() {
                     // alert("error");
                 })
                 .always(function() {
-                    $('#thankModal').modal('show');
-                    form.get(0).reset();
+
                 });
             e.stopPropagation();
             e.preventDefault();
