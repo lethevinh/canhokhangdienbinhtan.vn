@@ -208,6 +208,7 @@
                     // alert("second success");
                     $('#exampleModal[aria-modal="true"]').modal('hide');
                     $('#thankModal[aria-hidden="true"]').modal('show');
+                    $('.modal-backdrop').removeClass('show');
                     form.get(0).reset();
                 })
                 .fail(function() {
