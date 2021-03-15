@@ -1016,6 +1016,9 @@ ul.ul-green li .ti-check-box {
     .hero-text img {
         width: 100% !important;
     }
+    .hero-text>img {
+        width: auto !important;
+    }
 
     .single_feature ul,
     .single_feature {
@@ -1367,7 +1370,12 @@ ul .ti-check-box{
 .slider-text-img {
     /*max-height: 180px;*/
 }
-
+#position .single_feature ul li{
+    line-height: 3rem;
+}
+img.figlio{
+    background: transparent !important;
+}
 @media (min-width: 992px) {
     .modal-lg {
         max-width: 1200px;
@@ -1397,9 +1405,21 @@ ul .ti-check-box{
     }
 
     .footer-logo {
-        max-width: 300px;
+        max-width: 200px;
     }
-
+    #footer .single_how_we_work {
+        padding: 10px;
+    }
+    #out-area {
+        background-image: none !important;
+        background-color: #003D50;
+    }
+    .owl-theme .owl-controls img {
+        width: 25px;
+    }
+    .owl-theme .owl-controls{
+        top:10%
+    }
     .tientich div:not(:first-child) {
         /*margin-top: -30px;*/
     }
@@ -1435,6 +1455,9 @@ ul .ti-check-box{
     .detail-news .wp-block-image img{
         height: auto;
     }
+    .register {
+        margin-top: 60px;
+    }
 }
 
 @media not all and (min-resolution:.001dpcm) {
@@ -1453,6 +1476,9 @@ ul .ti-check-box{
 
         .tienich_bg:nth-child(3)::after {
             padding: 4rem 6rem 30px 30px;
+        }
+        #footer .single_how_we_work {
+            padding: 10px;
         }
     }
 }
